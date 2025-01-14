@@ -1,1 +1,1 @@
-# App-for-Maximum-Protection
+# A minimalist App for Maximum Protection
